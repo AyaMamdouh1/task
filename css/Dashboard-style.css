@@ -1,0 +1,311 @@
+.Dashboard
+{
+    width:1366px;
+    height: 768px;
+}
+.Dashboard .rw1
+
+{
+    height: 80px;
+    border-bottom: 1px solid  #C50000;
+
+}
+.Dashboard .img1
+{
+    width: 56px;
+    height: 40px;
+    position:absolute;
+    top: 20px;
+    left: 139px;
+
+}
+.Dashboard .p1
+{
+    position: absolute;
+    left: 202px;
+    top:17px;
+
+height: 22px;
+width: 19px;
+color:#333333 ;
+font-weight: bold;
+font-size: 24px;
+
+}
+.Dashboard .p2
+
+{    position: absolute;
+
+    top: 40px;
+    left: 202px;
+    width: 11px;
+    height: 12px;
+    color: #656565 ;
+
+}
+.a1
+{
+    position: absolute;
+    top: 35px;
+    left: 610px;
+    width: 50px;
+    height: 19px;
+font-size: 19px;
+color: #C50000;
+
+}
+.a2
+{
+    position: absolute;
+    left: 699px;
+    top: 35px;
+    width: 77px;
+    height: 19px;
+    color: #515151;
+font-size: 19px;
+
+}
+.a1:hover
+{
+    text-decoration: underline;
+    color: #C50000;
+
+}
+ .a2:hover
+{
+    text-decoration: underline;
+    color: #C50000;
+}
+
+.heads
+{
+    width: 260px;
+    height: 687px;
+
+    position: absolute;
+    left: 139px;
+    top: 81px;
+    background-color: #fff;
+    border: 1px solid #E3E3E3;
+
+
+}
+.heads .heading1
+{
+    background-color: #C50000;
+    border: 1px solid #C50000;
+width: 260px;
+    height: 60px;
+    position: absolute;
+
+    top: 0px;
+    left: 0px;
+
+
+
+}
+.heads .heasing2
+{position: absolute;
+    top: 60px;
+    left: 0px;
+    width: 260px;
+    height: 60px;
+
+
+
+    border: 1px solid #E3E3E3;
+}
+.heads .heading3
+{position: absolute;
+    top:120px;
+    left: 0px;
+
+    border: 1px solid #E3E3E3;
+    width: 260px;
+    height: 60px;
+
+}
+.heads .heading4
+{position: absolute;
+    top: 180px;
+    left: 0px;
+    border: 1px solid #E3E3E3;
+    width: 260px;
+    height: 60px;
+
+}
+
+.layer .div2 .head1
+{
+
+}
+.layer .divCon
+{
+    width: 800px;
+    height: 127px;
+    position: absolute;
+    left: 427px;
+    top: 141px;
+    background-color: #fff;
+    border: 1px solid #C50000;
+
+
+}
+.line
+{
+    height: 107px;
+    border: 2px solid #707070;
+    position: relative;
+    top: 10px;
+}
+.layer .divCon .group
+{
+    width: 116px;
+    position: absolute;
+    left:10px;
+    top:30px;
+}
+.layer .divCon .group p
+{
+    font-size: 14px;
+
+}
+
+.layer .divCon img
+{
+    width: 109px;
+    height: 107px;
+    position: absolute;
+    left: 10px;
+    top: 10px;
+
+}
+.head1
+{
+    width: 116px;
+    height: 29px;
+    position: absolute;
+    left:10px;
+    top: 0px;
+    color: #C50000;
+font-size: 24px;
+}
+.layer .heading1
+{
+    font-size: 24px;
+    height: 29px;
+    width: 116px;
+    color: #242424;
+    position: absolute;
+    left: 427px;
+    top: 99px;
+
+
+
+}
+/*.layer .divCon .head1
+{
+    width: 116px;
+    height: 29px;
+    position: absolute;
+    left: 0px;
+
+    font-size: 29px;
+    color: #C50000;
+    
+background-color: seagreen;
+}*/
+.risk
+{
+    width: 300px;
+    height: 203px;
+    position: relative;
+    left: 427px;
+    top: 215px;
+background-image: url(../assets/chart-risk.png);
+background-size: 100% 100%;
+border: 1px solid #C50000;
+
+}
+.risk h1
+{
+    background-color: #C50000 ;
+    width: 300px;
+height: 23px;
+position: absolute;
+top: 0;
+left: 0;
+color: #fff;
+font-size: 15px;
+}
+.risk .special
+{
+    width: 280px;
+    height: 52px;
+    position: absolute;
+    top: 141px;
+    left: 10px;
+    background-color: #C50000 ;
+    border: 1px solid #FEBF2E00;
+    color: #fff;
+    font-size: 37px;
+
+
+}
+.risk .special2
+{
+    width: 86px;
+    height: 46px;
+    font-size: 14px;
+    position: absolute;
+    background-color: #fff;
+    color: #000000;
+
+top: 0px;
+right: 0px;
+}
+.details
+{
+    width: 201px;
+    height: 203px;
+    position: relative;
+    left: 450px;
+    top: 215px;
+    border: 1px solid #C50000;
+
+}
+.details h1
+{
+    width: 201px;
+    height: 23px;
+    background-color:#C50000 ;
+    
+    top: 0;
+    left: 0;
+    font-size: 15px;
+    color:#fff
+    ;
+}
+.details .paragraphs
+{
+    width: 103px;
+    height: 88px;
+    position: absolute;
+    left: 10px;
+    top: 34px;
+    color: #C50000;
+    font-size: 14px;
+
+
+}
+.details .spans
+{
+    width: 65px;
+    height: 88px;
+    position: absolute;
+    left: 126px;
+    top: 34px;
+    color: #373737;
+font-size: 14px;
+
+}

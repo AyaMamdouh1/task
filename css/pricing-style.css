@@ -1,0 +1,269 @@
+#pricing
+{
+    width: 1366px;
+    height: 768px;
+}
+.rw1
+{
+    height: 80px;
+    border-bottom: 1px solid  #C50000;
+}
+.component img
+{
+    position: absolute;
+    top: 20px;
+left: 139px;
+width: 56px;
+height: 40px;
+}
+
+
+
+.a1
+{
+    position: absolute;
+    top: 35px;
+    left: 610px;
+    width: 50px;
+    height: 19px;
+font-size: 19px;
+color: #C50000;
+
+}
+.a2
+{
+    position: absolute;
+    left: 699px;
+    top: 35px;
+    width: 77px;
+    height: 19px;
+    color: #515151;
+font-size: 19px;
+}
+ .a1:hover
+{
+    text-decoration: underline;
+    color: #C50000;
+}
+ .a2:hover
+{
+    text-decoration: underline;
+    color: #C50000;
+}
+
+#pricing  .h1
+{
+    height: 38px;
+    width: 1091px;
+
+font-size: 38px;
+font-weight: bold;
+color: #C50000;
+display: block;
+position: absolute;
+left: 140px;
+top: 107px;
+
+}
+#pricing .p4
+{position: absolute;
+    left: 140px;
+    top: 152px;
+
+    width: 530px;
+    height: 38px;
+
+}
+#pricing  .component .p1
+{
+    color: #333333;
+    width: 100px;
+    height: 19px;
+    display: block;
+     position: absolute; 
+     top: 21px;
+     
+     left: 202px;
+     font-size: 24px;
+     font-weight: bold;
+
+
+
+
+}
+ #pricing  .component .p2
+{    position: absolute;
+
+   top: 48px;
+   left: 202px;
+   width: 120px;
+   height: 12px;
+   color: #656565 ;
+
+}
+
+
+
+ 
+.btn1
+
+
+{
+    position: absolute;
+    left: 140px;
+    top: 226px;
+    width: 259px;
+    height: 54px;
+    background-color: #C50000;
+
+}
+#btn1:hover #DEVELOPER
+{
+    opacity: 1;
+}
+.btn2
+{
+    position: absolute;
+
+    top: 226px;
+    left: 416px;
+    width: 259px;
+    height: 54px;
+    background-color: #C50000;
+
+}
+.btn3
+{    
+    position: absolute;
+    top: 226px;
+    left: 691px;
+    width: 259px;
+    height: 54px;
+
+    background-color: #C50000;
+
+}
+.span1
+{
+    color: #C50000;
+}
+.icon1
+
+{
+    position: absolute;
+    top: 10px;
+    left: 20px;
+    width: 18px;
+    height: 10px;
+    color: #fff;
+    font-size: 24px;
+
+
+}
+.icon2
+{
+    position: absolute;
+    top: 15px;
+    left: 30px;
+    width: 18px;
+    height: 10px;
+    font-size: 24px;
+color: #fff;
+}
+.icon3
+{
+    position: absolute;
+    top: 15px;
+    left: 40px;
+    width: 18px;
+    height: 10px;
+    color: #fff;
+    font-size: 24px;
+
+}
+
+
+
+.hide
+{
+    position: absolute;
+    left: 140px;
+        top: 304px;
+    width: 1070px;
+    height: 301px;
+
+opacity: 0;
+}
+  
+.hide h2
+{
+    height: 24px;
+    width: 535px;
+    position: absolute;
+    left:0px;
+    top: 3px;
+    font-size: 24px;
+    font-weight: bold;
+}
+.hide .p3
+   {color: #333333;
+font-size: 16px;
+position: absolute;
+top: 34px;
+left: 0px;
+width: 535px;
+height: 24px;
+
+
+   }
+.hide img{
+
+    width:535px;
+    height: 301px;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+
+   }
+#developer .span1
+{
+    font-size: 19px;
+}
+.hide .p5
+   {
+    width: 535px;
+    height: 38px;
+    position: absolute;
+    left: 0px;
+    top: 194px;
+    color: #C50000;
+    font-size: 32px;
+    font-weight: bold;
+
+   }
+   .hide .span2
+{
+    width: 35px;
+    height: 38px;
+    position: absolute;
+    left:110px;
+    bottom:5px;
+    font-size: 32px;
+
+}
+
+
+
+ .lbtn
+{
+    background-color: #fff;
+    border:1px solid #C50000;
+    color: #C50000;
+    width: 224px;
+    height: 54px;
+    position: absolute;
+    top: 247px;
+    left: 0px;
+
+
+}
